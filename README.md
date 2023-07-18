@@ -4,7 +4,7 @@ I'm Full Stack Developer
 - 👀 I’m working as a Software Engineer and contributing to frontend and backend for building web applications
 - ✨: In my free time, I study web disgn and UX/UI of applications
 - 🖌️: I love drawing and arts
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anna-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/anna-kravchuk-467716276)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anna-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/anna-kravchuk-467716276/)
 
 <hr/>
 
