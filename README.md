@@ -1,9 +1,9 @@
 
 ### About Me: <br/>
 I'm Full Stack Developer
-- 👀 I’m working with frontend and backend sides of web applications
+- 👀 I work with frontend and backend sides of web application
 - ✨: Also, I study UX/UI 
-- 🖌️: In my free time, I love drawing 
+- 🖌️: In my free time I draw
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anna-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anna-kravchuk-467716276/)
 
 <hr/>
